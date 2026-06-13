@@ -141,7 +141,10 @@ This project demonstrates proficiency in:
 
 ## Author
 
-Krish Shinde
+**Name**: Krish Shinde  
+**Batch**: Larry Page  
+**Course**: B.Tech CSE 
+
 
 ## License
 
